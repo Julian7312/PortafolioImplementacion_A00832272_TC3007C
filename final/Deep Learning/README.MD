@@ -1,4 +1,4 @@
-# Momento de Retroalimentación: Implementación de un modelo de Deep Learning (Portafolio de Implementación)
+# Deep Learning
 
 En esta carpeta se encuentran las entregas de el modulo de deep learning
 
