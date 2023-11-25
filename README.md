@@ -34,9 +34,7 @@
 
   * <a href="https://github.com/Julian7312/PortafolioImplementacion_A00832272_TC3007C/blob/main/final/Big%20Data/Instancia%20Spark.pdf">Instancia Spark</a>
 
-## Estadistica
-  * <a href="https://github.com/Julian7312/PortafolioImplementacion_A00832272_TC3007C/blob/main/final/Estadistica/README.md">README.md</a>
- 
+## Estadistica 
   * <a href="https://github.com/Julian7312/PortafolioImplementacion_A00832272_TC3007C/blob/main/final/Estadistica/A5-Regresi%C3%B3n%20log%C3%ADstica.pdf">A5-Regresión logística</a>
 
   * <a href="https://github.com/Julian7312/PortafolioImplementacion_A00832272_TC3007C/blob/main/final/Estadistica/A7_A00832272.pdf">A7_A00832272</a>
