@@ -15,8 +15,6 @@
 
 ## Entregas Finales
 
-### Momento de Retroalimentación Individual_ Implementación de un modelo de Deep Learning
-
 ## Deep Learning
   * <a href="https://github.com/Julian7312/PortafolioImplementacion_A00832272_TC3007C/blob/main/final/Deep%20Learning/README.MD">README.md</a>
  
