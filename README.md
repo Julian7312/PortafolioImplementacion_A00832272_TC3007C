@@ -44,6 +44,6 @@
 ## NLP
   * <a href="https://github.com/Julian7312/PortafolioImplementacion_A00832272_TC3007C/blob/main/final/NLP/README.MD">README.md</a>
  
-  * <a href="https://github.com/Julian7312/PortafolioImplementacion_A00832272_TC3007C/blob/main/final/NLP/NLP_A00832272_Julian_Lawrence_Gil_Soares.pdf">NLP_A00832272_Julian_Lawrence_Gil_Soares</a>
+  * <a href="https://github.com/Julian7312/PortafolioImplementacion_A00832272_TC3007C/blob/main/final/NLP/NLP_A00832272_Julian_Lawrence_Gil_Soares%20(1).pdf">NLP_A00832272_Julian_Lawrence_Gil_Soares</a>
 
  
